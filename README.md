@@ -214,9 +214,9 @@ Replication 기능을 통해 Master 서버에서 데이터 수정이 발생하�
 
 Github :  https://github.com/inkyu-yoon/growith
 
-Swagger : http://49.50.162.219:8080/swagger-ui/index.html
+Swagger : http://ec2-3-38-133-211.ap-northeast-2.compute.amazonaws.com:8080/swagger-ui/index.html
 
-배포주소 : http://49.50.162.219:8080/
+배포주소 : http://ec2-3-38-133-211.ap-northeast-2.compute.amazonaws.com:8080
 
 ### 📌 프로젝트 개요
 
