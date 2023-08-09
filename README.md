@@ -97,8 +97,6 @@ Refresh Token 기능을 도입하여, **사용자는 불편한 로그인 과정�
 
 Github :  https://github.com/shoe-kream/shoekream
 
-Swagger : http://49.50.162.219:8081/swagger-ui/index.html
-
 ### 📌 프로젝트 개요
 
 **ShoeKream**은 사용자가 직접 신발을 판매 · 구매할 수 있고 입찰 혹은 즉시 거래를 선택할 수 있는 상품 거래 플랫폼입니다.
